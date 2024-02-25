@@ -1,15 +1,15 @@
 title: Harkamal Singh 
 description: Analytically driven, currently advancing my expertise through a Master's in Information Technology Management to harness data and technology for strategic decision-making 
-site_title: '@skg - Simranjeet Kaur Gill'
+site_title: '@hs - Harkamal Singh '
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: SimranjeetG
-Linkedin_url: https://www.linkedin.com/in/simranjeet-kaur-gill-6106aa234/
-email: simranjeetkaur9340@gmail.com
+github_username: HarkamalSinghM
+Linkedin_url: https://www.linkedin.com/in/harkamal-singh98/
+email: harkamalj@gmail.com
 #keybase_username: 
 ##twitter_username: 
 reddit_username: 
